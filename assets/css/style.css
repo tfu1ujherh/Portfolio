@@ -460,8 +460,7 @@ header .navbar ul li a:hover {
 
 /* skills section starts */
 .skills {
-    margin-top: -30rem;
-  min-height: 70vh;
+  min-height: 90vh;
   background: linear-gradient(to bottom, #57059e, #4a00e0);
 }
 .skills h2 {
@@ -665,8 +664,6 @@ header .navbar ul li a:hover {
   position: relative;
   overflow: hidden;
   height: 30rem;
-    margin-top: 4rem;
-
 }
 .work .box-container .box img {
   height: 100%;
@@ -723,7 +720,6 @@ header .navbar ul li a:hover {
   color: #fff;
   background: rgb(12, 12, 12);
   margin-right: 2rem;
-  margin-bottom: 5rem;
 }
 .work .desc .btns .btn:hover {
   background: #310ae0f5;
@@ -731,7 +727,6 @@ header .navbar ul li a:hover {
 .work .viewall {
   display: flex;
   justify-content: center;
-  
 }
 .work .viewall .btn {
   position: relative;
@@ -749,13 +744,11 @@ header .navbar ul li a:hover {
   font-weight: 600;
   font-size: 1.7rem;
   font-family: "Nunito", sans-serif;
-
 }
 .work .viewall .btn i {
   margin-left: 0.3rem;
   font-size: 1.5rem;
   transition: 0.3s;
-
 }
 .work .viewall .btn:hover {
   background: #fff;
@@ -771,7 +764,6 @@ header .navbar ul li a:hover {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
-  
 }
 .experience .timeline::after {
   content: "";
@@ -879,7 +871,6 @@ header .navbar ul li a:hover {
   background: #2506ad;
   box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
   text-align: center;
-  margin-top: 25px;
 }
 .morebtn .btn span {
   font-weight: 600;
@@ -890,7 +881,6 @@ header .navbar ul li a:hover {
   margin-left: 0.3rem;
   font-size: 1.5rem;
   transition: 0.3s;
-  
 }
 .morebtn .btn:hover {
   background: #1a047e;
@@ -943,8 +933,7 @@ header .navbar ul li a:hover {
 /* contact section starts */
 .contact {
   background: #e5ecfb;
-  min-height: 100vh;
-  margin-top: -40rem;
+  min-height: 60vh;
 }
 .contact .container {
   max-width: 1050px;
@@ -1100,8 +1089,6 @@ form .button-area {
 
 /* footer section starts */
 .footer {
-      margin-top: -30rem;
-
   min-height: auto;
   padding-top: 0;
   background: rgb(0, 1, 43);
